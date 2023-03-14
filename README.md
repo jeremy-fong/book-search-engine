@@ -70,8 +70,12 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 
 ## Screenshot Preview of Project :
+![bookengineSS](https://user-images.githubusercontent.com/112743562/224990478-8a39b660-dcb4-4b8b-8bbe-910c102a1d6c.jpg)
+
+
+![bookengineSS2](https://user-images.githubusercontent.com/112743562/224990502-1f31d1c3-e0bb-4e51-bd15-789cce598a06.jpg)
 
 
 ## Source :
 - GitHub Link: https://github.com/jeremy-fong/book-search-engine
-- Heroku Link: 
+- Heroku Link: https://lookbook.herokuapp.com/
